@@ -1,2 +1,2 @@
 # Project
-Project for DCN class
+Project for Predictive Analytics class
